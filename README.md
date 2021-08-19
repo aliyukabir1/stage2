@@ -2,6 +2,11 @@
 
 A new Flutter project.
 This is the task for zuri internship stage 2.
+
+
+2. print('Aliyu Kabir'); //dart
+
+
 These are the screenshots of the app on the site and on mobile
 ![Screenshot_20210819-222850_Chrome](https://user-images.githubusercontent.com/60947300/130147689-06df34b3-cf1b-47a5-8f56-451ab00ecc1f.jpg)
 
